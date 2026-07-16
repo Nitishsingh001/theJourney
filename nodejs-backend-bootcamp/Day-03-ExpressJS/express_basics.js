@@ -1,4 +1,39 @@
 
+
+const express = require("express")
+
+const app = expess(); 
+
+const PORT = 3000; 
+
+app.get('/', (req, res)=>{
+    res.send("Hellow from express"); 
+
+});
+
+
+ app.listen(PORT, ()=>{
+    console.log(`server is running on port ${PORT}`)
+ })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //http  vs Express 
 
 
@@ -15,13 +50,13 @@
 // }).listen(3000); 
 
 
-const express = require("express"); 
+// const express = require("express"); 
 
-const app = express();
+// const app = express();
 
-app.get('/', (req, res=>{
-    res.json({message : 'Hello world'}); 
-}))
+// app.get('/', (req, res=>{
+//     res.json({message : 'Hello world'}); 
+// }))
 
 
-app.listen(3000); 
+// app.listen(3000); 

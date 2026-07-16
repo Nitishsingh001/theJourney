@@ -1,0 +1,90 @@
+# Node.js Backend Bootcamp 🚀
+
+Welcome to my **7-Day Node.js Backend Bootcamp** repository.
+
+This repository documents my journey of learning backend development using **Node.js**, **Express.js**, and **MongoDB**. The goal is to become internship-ready by building real-world backend projects and strengthening backend development concepts.
+
+---
+
+## 🎯 Goals
+
+- Learn JavaScript for Backend
+- Understand Node.js fundamentals
+- Build REST APIs using Express.js
+- Work with MongoDB using Mongoose
+- Implement Authentication using JWT
+- Learn Error Handling and Validation
+- Build a Production-Ready Backend Project
+- Deploy the project
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- bcrypt
+- Multer
+- Nodemailer
+- Git & GitHub
+- Postman
+
+---
+
+## 📁 Repository Structure
+
+```
+Day-01-JavaScript/
+Day-02-NodeJS/
+Day-03-ExpressJS/
+Day-04-MongoDB/
+Day-05-Authentication/
+Day-06-Advanced/
+Day-07-Final-Project/
+```
+
+---
+
+## 📅 Progress
+
+- [ ] Day 1 - JavaScript Fundamentals
+- [ ] Day 2 - Node.js Core Modules
+- [ ] Day 3 - Express.js & REST APIs
+- [ ] Day 4 - MongoDB & Mongoose
+- [ ] Day 5 - Authentication (JWT)
+- [ ] Day 6 - Advanced Backend Concepts
+- [ ] Day 7 - Final Backend Project & Deployment
+
+---
+
+## 🚀 Final Project
+
+**AI Resume Builder Backend**
+
+Features:
+- User Authentication
+- JWT Authorization
+- Resume CRUD APIs
+- Profile Management
+- File Upload
+- Email Verification
+- Forgot Password
+- Role-Based Access
+- Pagination & Filtering
+- Deployment
+
+---
+
+## 📌 About Me
+
+I am a B.Tech Computer Science student passionate about Backend Development, AI/ML, and Software Engineering.
+
+Currently preparing for Backend Developer internships by building real-world projects.
+
+---
+
+⭐ If you find this repository useful, feel free to star it.
